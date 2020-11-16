@@ -15,7 +15,7 @@ cauliflower,tomato,0.905606806,banjo
 pelican,flamingo,0.905507734,tomato
 grater,ladle,0.904034918,flamingo
 banana,pineapple,0.895805127,boat
-macaroni,tortilla,0.894321479,pineapple
+macaroni,tortilla,0.894321479,snake
 cherries,melon,0.893490119,tile
 coconut,mango,0.892935826,pigeon
 paddle,boat,0.891492042,mango
@@ -24,7 +24,7 @@ cymbals,drum,0.889320824,spear
 bagel,fries,0.887821796,drum
 elephant,giraffe,0.881719254,fries
 blueberry,pear,0.87985533,giraffe
-asparagus,plum,0.872900723,pear
+asparagus,plum,0.872900723,zebra
 crab,squid,0.866067395,plum
 screw,clamp,0.864018003,squid
 croissant,toast,0.854583627,clamp
@@ -35,13 +35,13 @@ piano,xylophone,0.84306402,melon
 dolphin,shark,0.842719461,celery
 sushi,pizza,0.840077243,kettle
 clipboard,folder,0.831478443,pizza
-fridge,kettle,0.828103217,snake
+fridge,kettle,0.828103217,shark
 crocodile,snake,0.827475717,lettuce
 cheetah,zebra,0.824983541,spaghetti
-pumpkin,spaghetti,0.824777914,zebra
-shoe,jeans,0.824156279,shark
+pumpkin,spaghetti,0.824777914,tripod
+shoe,jeans,0.824156279,pineapple
 camera,tripod,0.815485551,jeans
-fireplace,freezer,0.815356928,tripod
+fireplace,freezer,0.815356928,pear
 deodorant,toothbrush,0.806058145,freezer
 knife,tongs,0.801750982,battery
 ashtray,cigar,0.790656409,tongs
