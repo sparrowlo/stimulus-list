@@ -17,7 +17,7 @@ bacon,cheese,0.924356422,boat
 accordion,banjo,0.920450669,pumpkin
 cauliflower,tomato,0.905606806,squid
 pelican,flamingo,0.905507734,lettuce
-grater,ladle,0.904034918,tomato
+grater,ladle,0.904034918,screwdriver
 banana,pineapple,0.895805127,flamingo
 macaroni,tortilla,0.894321479,drum
 coconut,mango,0.892935826,tripod
@@ -51,7 +51,7 @@ cigar,ashtray,0.790656409,lizard
 brick,tile,0.789739984,cigar
 wrench,screwdriver,0.788329556,mushroom
 motorcycle,scooter,0.785026917,tile
-bandage,elbow,0.777792001,screwdriver
+bandage,elbow,0.777792001,tomato
 brush,spatula,0.772796797,scooter
 bubbles,sponge,0.769325563,elbow
 truck,tire,0.768309941,spatula
@@ -59,7 +59,7 @@ beaver,moose,0.765250843,sponge
 helmet,goggles,0.756493856,moose
 earrings,scarf,0.751622157,tyre
 brooch,necklace,0.742486554,battery
-bottle,champagne,0.741851491,scarf
+bottle,champagne,0.741851491,gorilla
 fountain,statue,0.73810603,necklace
 cables,battery,0.735053163,champagne
 mixer,sink,0.729673105,statue
@@ -67,7 +67,7 @@ strainer,whisk,0.721552674,goggles
 wolf,raccoon,0.720048178,sink
 armadillo,gorilla,0.716310639,plum
 grapes,melon,0.715877792,raccoon
-bull,lion,0.71425749,gorilla
+lion,bull,0.71425749,scarf
 eraser,pencil,0.70942845,melon
 rake,bucket,0.702914224,lion
 candle,lamp,0.700732168,fries
