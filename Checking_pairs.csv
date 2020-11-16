@@ -9,9 +9,9 @@ toaster,fridge,0.954832399,lemon
 carrot,celery,0.947488448,banjo
 blender,spoon,0.933276503,shark
 trumpet,saxophone,0.931193606,celery
-cherries,plum,0.930563119,lamp
+cherries,plum,0.930563119,tile
 guitar,harmonica,0.927233699,onion
-broccoli,cantaloupe,0.925988911,whisk
+broccoli,cantaloupe,0.925988911,lamp
 peanut,pumpkin,0.924363947,harmonica
 bacon,cheese,0.924356422,boat
 accordion,banjo,0.920450669,pumpkin
@@ -50,7 +50,7 @@ knife,tongs,0.801750982,telescope
 cigar,ashtray,0.790656409,lizard
 brick,tile,0.789739984,cigar
 wrench,screwdriver,0.788329556,mushroom
-motorcycle,scooter,0.785026917,tile
+motorcycle,scooter,0.785026917,whisk
 bandage,elbow,0.777792001,tomato
 brush,spatula,0.772796797,scooter
 bubbles,sponge,0.769325563,elbow
